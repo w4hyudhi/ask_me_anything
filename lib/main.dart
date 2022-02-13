@@ -33,7 +33,7 @@ class _BallPageState extends State<BallPage> {
     return
         // backgroundColor: Colors.white,
         Scaffold(
-      backgroundColor: Colors.blue,
+      backgroundColor: Colors.red,
       appBar: AppBar(
         backgroundColor: Colors.blue.shade900,
         title: Text('Ask Me Anything'),
